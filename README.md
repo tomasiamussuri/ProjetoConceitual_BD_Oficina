@@ -18,4 +18,8 @@ Criar um esquema conceitual para o contexto de oficina, com todas as entidades, 
 <h3> Ferramenta </h3>
 Workbent - MySQL
 
-<img="./img/model.jpeg">
+
+<h3> Model </h3>
+<div align="Center">
+<img src="./img/model.jpeg">
+</div>
