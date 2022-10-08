@@ -20,6 +20,6 @@ Workbent - MySQL
 
 
 <h3> Modelagem </h3>
-<div align="Center">
+<p style="text-align: center;">
 <img src="./img/model.jpeg">
-</div>
+</p>
